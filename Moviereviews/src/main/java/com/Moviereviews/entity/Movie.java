@@ -14,12 +14,12 @@ public class Movie {
     private String title;
     private String director;
     private String description;
-    private int rating; // Rating 0 till 10
+    private int rating; // Rating 0 to 10
 
 
 
 
-    // Getters och Setters
+    // Getters and Setters
     public Long getId() {
         return id;
     }
