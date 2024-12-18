@@ -7,4 +7,3 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface MovieRepository extends JpaRepository<Movie, Long> {
 }
-//Ärver CRUD metoder från Jpa repository
